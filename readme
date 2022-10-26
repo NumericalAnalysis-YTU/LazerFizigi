@@ -1,5 +1,55 @@
 FIZ5113
 
-Ödev 1 is here
 
+
+The full form of the acronym 'laser' is light amplification by stimulated emission of radiation. 
+The laser was invented in 1960 as a so-called 'tool looking for an application'.
+
+Micromachining, waveguide fabrication, welding, cutting, nondestructive testing, and pulsed-laser 
+deposition of thin films are some of their applications in materials science. 
+
+In the field of electrical engineering, fiber optics has revolutionized the field of optical communication.
+
+In aerospace engineering applications involving jet and scramjet engines, studies of the mixing of 
+fuel sprays require laser-induced fluorescence techniques. 
+
+The defense, medical, and cosmetic fields, as well as scientific research, are interdisciplinary areas
+that make extensive use of lasers. Like the flow of electrons that completes electronic circuits in 
+electronics, photons are related to photonic circuits in the field of photonics. 
+
+Maxwell's equations suggest that light is an electromagnetic (EM) wave.
+Therefore, this chapter connects optics with EM theory. An electric field (E, in the y direction)
+and a magnetic field (B, in the x direction), which are mutually perpendicular to each other. 
+
+The Photon
+
+The photon is introduced using classical and quantum picture.
+A semi-classical approach is used to connect classical electrodynamics with light. 
+These parameters including group velocity, phase velocity power flux, radiation pressure and dispersion.
+
+The photon:
+  i.   has no charge,
+  ii.  is considered to have zero rest mass but
+  iii. carries momentum $\left(\,p=h/\lambda \right)$,
+  iv.  has a constant velocity ($c)\sim {10}^{8}$ m s−1 in vacuum,
+  v.   carries a spin of 1 and thus follows Bose–Einstein statistics,
+  vi.  is immune to EM noise (as it has no charge), and
+  vii. does not undergo photon–photon interactions in linear optics.
+  
+ The property of photons being immune to EM noise makes a light beam a special tool as compared
+ to electrical circuits that are prone to picking up stray EM signals. 
+ 
+ Similarly, photon–photon interactions cannot take place under normal light levels.
+ In the same way that electronics deals with the flow of electrons in electrical circuits,
+ photon-related studies address photonic circuits that fall within the domain of photonics.
+ This means that the two light rays can cross without interacting with each other. 
+ 
+ The photon–electron interaction, which falls within the domain of light–matter interactions, 
+ is an important area of interdisciplinary research. 
+
+Refractive index
+
+The refractive index (n) of a medium is defined as the ratio of the speed of the light in vacuum (c)
+to that in the medium (nu). It should be noted that a change in the speed of the light wave results in
+a change in its wavelength. 
 
